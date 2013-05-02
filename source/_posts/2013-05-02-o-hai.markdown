@@ -1,0 +1,13 @@
+---
+layout: post
+title: "O HAI"
+date: 2013-05-02 01:01
+comments: true
+categories: Welcome
+---
+
+I love writing for my blog over at [The Daily Flux](http://brandonhays.com/blog), but the rules there constrain me sometimes. My guideline for my normal blog, these days, is to place signposts to future me, to others, and to my children about things that have helped me discover some measure of happiness and success in life.
+
+Here, I'd like to speak a bit more freely about things that interest me in the moment. I want to share thoughts on technology, code, and community that I never really had a place for previously.
+
+Hope you like it.
