@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Code in Flux]]></title>
+  <link href="http://tehviking.github.com/atom.xml" rel="self"/>
+  <link href="http://tehviking.github.com/"/>
+  <updated>2013-05-02T00:55:09-05:00</updated>
+  <id>http://tehviking.github.com/</id>
+  <author>
+    <name><![CDATA[Brandon Hays]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
