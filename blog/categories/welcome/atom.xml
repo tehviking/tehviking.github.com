@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Code in Flux]]></title>
-  <link href="http://tehviking.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Welcome | Code in Flux]]></title>
+  <link href="http://tehviking.github.com/blog/categories/welcome/atom.xml" rel="self"/>
   <link href="http://tehviking.github.com/"/>
   <updated>2013-05-02T01:09:00-05:00</updated>
   <id>http://tehviking.github.com/</id>
@@ -20,7 +20,7 @@
     <id>http://tehviking.github.com/blog/2013/05/02/o-hai</id>
     <content type="html"><![CDATA[<p>I love writing for my blog over at <a href="http://brandonhays.com/blog">The Daily Flux</a>, but the rules there constrain me sometimes. My guideline for my normal blog, these days, is to place signposts to future me, to others, and to my children about things that have helped me discover some measure of happiness and success in life.</p>
 
-<p>Here, I&#8217;d like to speak a bit more freely about things that interest me in the moment. I want to share thoughts on technology, code, and community that I never really had a place for previously.</p>
+<p>Here, I'd like to speak a bit more freely about things that interest me in the moment. I want to share thoughts on technology, code, and community that I never really had a place for previously.</p>
 
 <p>Hope you like it.</p>
 ]]></content>
